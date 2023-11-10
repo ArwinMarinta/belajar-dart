@@ -1,11 +1,11 @@
-void main() {
-  greet('dicoding', 2015);
-}
+// void main() {
+//   greet('dicoding', 2015);
+// }
 
-void greet(String name, int bornYear) {
-  var age = 2023 - bornYear;
-  print("Hallo $name! tahun ini anda berusia $age Tahun!!");
-}
+// void greet(String name, int bornYear) {
+//   var age = 2023 - bornYear;
+//   print("Hallo $name! tahun ini anda berusia $age Tahun!!");
+// }
 
 void main() {
   var fistNumber = 7;
